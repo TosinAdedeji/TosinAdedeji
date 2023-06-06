@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwatosin Eghire
-- 👀 I’m interested in Data Analysis
+- 👀 I’m a Data Analyst
 - 🌱 I’m currently learning data analysis using Python
 - 💞️ I’m looking to collaborate on various platform that will help me improve my skill
 - 📫 You can reach me on my email; adesewatosin@gmail.com
